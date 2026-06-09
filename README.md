@@ -3,7 +3,8 @@ Project Overview
 This project delivers a comprehensive 360 degree player evaluation and recruitment platform for professional football scouting departments. The dashboard bridges technical data architecture with scout-level insights, focusing on recruitment optimization, player efficiency normalization, and financial market value trends.
 
 **Dashboard Preview**
-[Insert your dashboard screenshots here]
+![Dashboard Snapshot](SlicerPage1.png)
+![Dashboard Snapshot](PlayerProfilePage2.png)
 
 **Business Insights and Key Takeaways**
 Efficiency vs. Volume (Per 90 Metrics): Analyzing raw volume metrics can skew a scout's assessment due to varying playing time. Normalizing performance data to per 90 minute intervals uncovers highly efficient prospects who produce elite output despite limited minutes or tactical constraints, minimizing recruitment blind spots.
